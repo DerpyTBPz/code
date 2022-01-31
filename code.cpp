@@ -2,7 +2,7 @@
 #include <unistd.h>
 #include <clocale>
 
-int main() // Шифрование да
+int main() // Шифрование да lf
 { 
     char abc[] = " abcdefghigklmnopqrstuvwxyz";
     int textNumb[200], codeNumb[50], k = 0, codeTextNumb[200], codeSize = 0, textSize = 0;
